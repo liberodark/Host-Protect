@@ -1,5 +1,3 @@
-liberodark 9iGL&cH$3V
-
 Mac
 
 mv ./hosts.txt /private/etc/hosts
