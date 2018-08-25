@@ -1,0 +1,33 @@
+liberodark 9iGL&cH$3V
+
+Mac
+
+mv ./hosts.txt /private/etc/hosts
+sudo dscacheutil -flushcache;sudo killall -HUP mDNSResponder
+
+Windows
+
+ipconfig /flushdns
+ 
+
+Linux
+
+Debian/Ubuntu
+sudo cp ./hosts.txt /etc/hosts Linux
+sudo /etc/rc.d/init.d/nscd restart
+
+Linux + systemd
+sudo systemctl restart network.service
+
+Fedora / Arch Linux & dérivés utilisant Network Manager
+sudo systemctl restart NetworkManager.service
+
+Arch Linux & dérivés utilisant Wicd
+sudo systemctl restart wicd.service
+
+Système de Login
+DB Authentification
+Mail + MDP + HID
+Licence à vie + licence par Ans
+Trouver language pour windows mac linux
+Corriger en java si possible problème de droit pour copie + execution commande
