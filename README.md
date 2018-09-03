@@ -24,11 +24,7 @@ into a unified hosts file with duplicates removed.  A variety of tailored hosts 
 * Logo by [@Tobaloidee](https://github.com/Tobaloidee).
 
 
-### List of all hosts file variants
-
-The **Non GitHub mirror** is the link to use for some hosts file managers like
-[Hostsman for Windows](http://www.abelhadigital.com/hostsman) that don't work
-with Github download links.
+### List of DNS Servers
 
 DNS | IPv4 | IPv6 | Public | Enterprise
 ---------------- |:------:|:---------:|:--------------:|:-------------:
