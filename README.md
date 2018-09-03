@@ -1,8 +1,8 @@
 ![readme](https://user-images.githubusercontent.com/36028424/40330477-9df2c2e0-5d7f-11e8-8ac8-511d719a5eae.png)
 
-# What is Hosts project ?
+# What is DNS Protect ?
 
-Hosts is a open source DNS Servers.
+DNS Protect is a open source DNS Servers.
 
 * Last updated: **August 30 2018**.
 * Here's the [raw hosts file with base extensions](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) containing 60,855 entries.
