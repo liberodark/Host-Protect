@@ -32,5 +32,5 @@ with Github download links.
 
 DNS | IPv4 | IPv6 | Public | Enterprise
 ---------------- |:------:|:---------:|:--------------:|:-------------:
-DNS = **(adware + malware)** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | 60,855 | [link](http://sbc.io/hosts/hosts)
-DNS **+ fakenews** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts) | 61,524 | [link](http://sbc.io/hosts/alternates/fakenews/hosts)
+**France** | 51.68.224.227 | [link](http://51.68.224.227/) | Yes | No
+**Australia** | 139.99.172.30 | [link](http://139.99.172.30/) | No | Yes
