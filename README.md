@@ -16,5 +16,5 @@ DNS Protect is a open source DNS Servers use Pi Hole project and have dedicated 
 
 DNS | IPv4 | IPv6 | Public | Enterprise
 ---------------- |:------:|:---------:|:--------------:|:-------------:
-**France** | 51.38.186.184 | [link](https://51.38.186.184/) | Yes | No
+**France** | 51.38.186.184 | 2001:41d0:305:2100:0:0:0:1895 | Yes | No
 **Australia** | 139.99.172.30 | [link](http://139.99.172.30/) | No | Yes
