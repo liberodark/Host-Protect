@@ -1,4 +1,4 @@
-![readme](https://www.pofilo.fr/img/SPOF-github/Open-Source-Initiative-keyhole.svg.png)
+![readme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkwMdUS3pMKSHZWS4e0WFAauziky2T3zqu6Wu-MJ74dG9TiFKK)
 
 # What is DNS Protect ?
 
